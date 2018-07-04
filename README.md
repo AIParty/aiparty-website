@@ -1,2 +1,2 @@
-# aiparty-website
-Website
+# website-se
+aipartiet.se website
